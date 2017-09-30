@@ -1,0 +1,11 @@
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Debug\System.Data.SQLite.dll
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Debug\AnsFinder.Form1.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Debug\AnsFinder.Properties.Resources.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Debug\AnsFinder.csproj.GenerateResource.Cache
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Debug\db\ansfinder.db
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Debug\神の閃き.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Debug\神の閃き.pdb
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Debug\神の閃き.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Debug\神の閃き.pdb
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Debug\神の閃き.exe.config
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Debug\lib\System.Data.SQLite.dll

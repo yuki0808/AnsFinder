@@ -1,0 +1,10 @@
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Release\db\ansfinder.db
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Release\System.Data.SQLite.dll
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Release\AnsFinder.Form1.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Release\AnsFinder.Properties.Resources.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Release\AnsFinder.csproj.GenerateResource.Cache
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Release\神の閃き.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Release\神の閃き.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Release\神の閃き.exe.config
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\bin\Release\lib\System.Data.SQLite.dll
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\AnsFinder\AnsFinder\obj\Release\AnsFinder.csprojResolveAssemblyReference.cache
